@@ -1,2 +1,2 @@
 # react-skeleton
-A blank seed project for my React projects.
+An AWESOME blank seed project for my React projects.
